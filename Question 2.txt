@@ -1,0 +1,23 @@
+Next, you will play the role of the client and the data scientist. 
+
+Using the topic that you selected, complete the Business Understanding stage by coming up with a problem that you would like to solve and phrasing it in the form of a question that you will use data to answer. (3 points)
+
+You are required to:
+
+Describe the problem, related to the topic you selected.
+
+Phrase the problem as a question to be answered using data.
+
+For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?".
+
+Answer: Client (hospital administrator): 
+Problem description:
+There's a growing concern in our hospital regarding the efficient allocation of staff and resources due to fluctuating patient admission rates. Unexpected surges in patient numbers lead to stress on our resources and staff, afecting the quality of care provided. We need a system that helps predict the number of patient admissions to better manage staffing schedules and resources, ensuring we maintain high standards of paient care.
+
+
+Phrased as a problem statement:
+Can we predict the number of patient admissions to optimize staffing and resource allocation and improve patient care?
+
+
+ As the data scientist:
+I understand the challenge you're facing with the unpredictability of patient admissions. My goal will be to utilize historical hospital admission data, along with anay relevant external factors, to build a prredicitve model . This model will aim to forecast patient admission rates, which can then inform your staffing scchedules and resource allocation planning. The question we'll seek to answer with data is: 'How can we  accurately forecast daily patient admission rates to ensure optimal staffing and resource availability in the hospital?'

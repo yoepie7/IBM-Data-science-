@@ -1,0 +1,3 @@
+Which topic did you choose to apply the data science methodology to? (2 points)
+
+Answer:Hospital

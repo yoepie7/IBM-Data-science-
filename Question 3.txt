@@ -1,0 +1,39 @@
+Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with. (5 points):
+
+Analytic Approach
+
+Data Requirements
+
+Data Collection
+
+Data Understanding and Preparation
+
+Modeling and Evaluation
+
+You can always refer to the labs as a reference with describing how you would complete each stage for your problem.
+
+Answer:  Analytic approach: 
+For the hospital admsision prediction problem, the analytic approach will involve building a predictive model using historical data. Since the traget variable is the number of patient admissions, which is a continuous count, regression analysis and time series forecasting models are suitable. Methods such as ARIMA, Seasonal decomposition of time series( STL)  and long short term memory (LSTM networks can be explored.
+
+
+Data requirements:
+The essential data needed includes:
+1. Historical patient admission numbers (daily, weekly or monthly)
+2. Date and time information to understand temporal trends.
+3 Data on factors that may influence admission rates, such as flu seasons, local events or public holidays.
+4. Historical staffing levels and hospital resource data to correlate with admission rates.
+
+
+Data collection:
+Data will be gathered from the hospitals information system to obtain historical admission records and staffing data. Public health database may provide information on local health events and seasonal diseases. All data collected must respect patient privacy and comply with relevant health data regulations.
+
+
+ Data understnading and preparations:
+In this phase, data will be explored to identify trends, seasonality and outliers. This will include visualizations such as time series plots and correlations between admissions and potential influencing factors. Data preparation will involve cleaning missing values, encoding categorical variables and creating new features that may help in prediction ( e.g., day of the week, holiday flags).
+
+
+Modeling and evaluation:
+Multiple models will be trained using the prepared dataset. Each models performance will be assessed using appropriate metrics, such as MAE, RMSE or Mean absolute percentage error (MAPE) for continuous outputs. Cross validation will be used to avoud overfitting. The final model will be selected based on its accuracy and how well it generalizes to unseen data. This model will then be used to make predictions about future patient admissions.
+
+
+Each models predictions will be evaluated against real world outcomes to assess its effectiveness. The feedback loop from the models performance can then inform further refinements and adjustments to improve the prediction accuracy.
