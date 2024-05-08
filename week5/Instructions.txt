@@ -1,0 +1,23 @@
+Instructions:
+By now, you should have completed the assignment. In this part, you will be required to submit the GitHub link of the Cognos dashboard you got in Task 6 of the assignment.
+
+There are a total of 10 points possible for this assignment. Your assignment will be graded by your peers who are also completing this assignment.
+
+The main grading criteria will be:
+
+Have you provided a GitHub link which opens your valid Cognos dashboard?
+
+Have the correct tabs been created?
+
+Have you created the required number of visualizations for each tab of the dashboard?
+
+Have you captured the correct metrics, chart types, chart features and titles for each visualization?
+
+Are the results correct?
+
+You will not be judged on:
+
+Your English language, including spelling or grammatical mistakes.
+
+For submission, click on the "My Submissions" Tab at the top of this page.
+
